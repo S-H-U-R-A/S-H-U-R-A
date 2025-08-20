@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un Ingeniero de Sistemas en transición hacia Data Engineering, con una sólida experiencia en desarrollo móvil. Me apasiona convertir datos en información valiosa y crear soluciones tecnológicas que impacten positivamente.
+Ingeniero de Sistemas con más de 10 años de experiencia en la industria, actualmente en transición hacia Data Engineering, con una sólida experiencia en desarrollo. Me apasiona convertir datos en información valiosa y crear soluciones tecnológicas que impacten positivamente.
 
-> 🚀 "En el camino de convertir datos en conocimiento"
+> 🚀 "En el camino de convertir datos en conocimiento" 🚀
 
 ## 🛠️ Tech Stack
 
@@ -35,22 +35,6 @@ Soy un Ingeniero de Sistemas en transición hacia Data Engineering, con una sól
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-H-U-R-A&layout=compact&theme=radical)](https://github.com/S-H-U-R-A)
 
-## 🌟 Proyectos Destacados
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/S-H-U-R-A/Curso_Dart_FH">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-H-U-R-A&repo=Curso_Dart_FH&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/S-H-U-R-A/AlternovaLego">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-H-U-R-A&repo=AlternovaLego&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📫 Contáctame
 
