@@ -8,7 +8,7 @@ Ingeniero de Sistemas con más de 10 años de experiencia en la industria, actua
 
 ## 🛠️ Stack Tecnológico
 
-### ⚡ Ingeniería de Datos (En progreso [▮▮▮▯▯])
+### ⚡ Ingeniería de Datos (En progreso [🟦🟦🟦⬜⬜] 60%)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
