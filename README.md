@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero de Sistemas con más de 10 años de experiencia en la industria, actualmente en transición hacia Data Engineering, con una sólida experiencia en desarrollo. Me apasiona convertir datos en información valiosa y crear soluciones tecnológicas que impacten positivamente.
+Ingeniero de Sistemas con más de 10 años de experiencia en la industria, actualmente en transición hacia Data Engineer, con una sólida experiencia en desarrollo. Me apasiona convertir datos en información valiosa y crear soluciones tecnológicas que impacten positivamente.
 
 > 🚀 "En el camino de convertir datos en conocimiento" 🚀
 
